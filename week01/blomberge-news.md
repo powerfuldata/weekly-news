@@ -2,11 +2,11 @@
 **Bloomberg News
 December 1, 2021, 5:00 AM GMT+8 Updated on December 1, 2021, 10:21 AM GMT+8**
 
- Countries across the world scrambled this week to impose border and travel curbs after the new omicron variant emerged. In China, it was business as usual
+ Countries across the world `scrambled` this week to `impose` border and travel `curbs` after the new omicron `variant` `emerged`. In China, it was business as usual
 
- While scientists race to figure out whether the Covid-19 variant first sequenced in South Africa will pose a bigger problem than the highly infectious delta strain, countries ranging from the U.K. and Israel to Japan erred on the side of caution. They put in place preemptive defenses and travel restrictions designed to keep the variant out, rather than betting on omicron being a flash in the pan. It’s a calculus Beijing didn’t have to consider.
+ While scientists race to figure out whether the Covid-19 variant first `sequenced` in South Africa will `pose` a bigger problem than the highly `infectious` delta `strain`, countries ranging from the U.K. and Israel to Japan `erred` on the side of caution. They put in place `preemptive` defenses and travel restrictions designed to keep the variant out, rather than `betting` on omicron `being a flash in the pan`. It’s a `calculus` Beijing didn’t have to consider.
 
- The emergence of the highly-mutated form of the virus has provided some vindication for China’s Covid Zero approach, which saw the country close its border indefinitely at the beginning of the pandemic, and intensify its stringent curbs ever since. While other places pivot to living alongside the virus, China has prioritized weeding out every last infection, saying the health of the population is its main priority -- and economic benefits will follow.
+ The emergence of the highly-mutated form of the virus has provided some `vindication` for China’s Covid Zero approach, which saw the country close its border `indefinitely` at the beginning of the pandemic, and `intensify` its `stringent` curbs ever since. While other places `pivot` to living alongside the virus, China has `prioritized` weeding out every last infection, saying the health of the population is its main priority -- and economic benefits will follow.
 
 ## Covid Booster
  “Omicron is a booster shot for Covid Zero,” said Huang Yanzhong, a senior fellow for global health at the New York-based Council on Foreign Relations. “If Western countries are walking back on their reopening and closing borders, they’ll lose the grounds for accusing China of sticking to what they say is an unsustainable and incorrect approach.”
@@ -17,7 +17,7 @@ December 1, 2021, 5:00 AM GMT+8 Updated on December 1, 2021, 10:21 AM GMT+8**
 
  Still, the zero-tolerance strategy China is clinging to has come under growing criticism from abroad and at least partly from within, and goes well beyond rigid border closures to include a growing suite of disruptive curbs. 
 
-**Harder Containment**
+## Harder Containment
 
 The infectious delta variant tied to more flareups in China
 ![图片](../images/data1.png)
