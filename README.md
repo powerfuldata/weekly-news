@@ -4,3 +4,4 @@
 # 新闻列表
 * [1.China Basks in Covid Vindication as Omicron Closes Borders](./week01/blomberge-news.md)
     * [翻译1：中国受益于奥密克戎病毒导致的边境关闭](./week01/translate-wuchao.md)
+* [2. US adds drone maker DJI and 7 other Chinese companies to investment blacklist](./week02/cnn-new.md)

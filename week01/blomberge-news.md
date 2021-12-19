@@ -9,13 +9,13 @@ December 1, 2021, 5:00 AM GMT+8 Updated on December 1, 2021, 10:21 AM GMT+8**
  The emergence of the highly-mutated form of the virus has provided some `vindication` for China’s Covid Zero approach, which saw the country close its border `indefinitely` at the beginning of the pandemic, and `intensify` its `stringent` curbs ever since. While other places `pivot` to living alongside the virus, China has `prioritized` weeding out every last infection, saying the health of the population is its main priority -- and economic benefits will follow.
 
 ## Covid Booster
- “Omicron is a booster shot for Covid Zero,” said Huang Yanzhong, a senior `fellow` for global health at the New York-based Council on Foreign Relations. “If Western countries are walking back on their reopening and closing borders, they’ll lose the grounds for accusing China of sticking to what they say is an unsustainable and incorrect approach.”
+ “`Omicron is a booster shot for Covid Zero`,” said Huang Yanzhong, a senior `fellow` for global health at the New York-based `Council` on Foreign Relations. “If Western countries are walking back on their reopening and closing borders, they’ll lose the grounds for `accusing` China of sticking to what they say is an unsustainable and incorrect approach.”
 
- Other countries embracing travel and border restrictions anew raises questions about whether China’s strategy may offer a better defense from newly emerging variants, particularly in the early days when their risk isn’t fully understood and the guarantee of an exit from the Covid pandemic is far from certain. The country’s state-backed newspaper, the Global Times, already declared China the most likely place to avoid devastation from omicron.
+ Other countries embracing travel and border restrictions anew raises questions about whether China’s strategy may offer a better defense from newly emerging variants, particularly `in the early days` when their risk isn’t fully understood and the `guarantee` of an exit from the Covid pandemic `is far from certain`. The country’s state-backed newspaper, the Global Times, already declared China the most likely place to avoid `devastation` from omicron.
 
- While the verdict is still out on whether the startling genetic changes found in omicron justify the preemptive hunkering down, some analysts said China’s approach may offer benefits. Kinger Lau, a strategist with Goldman Sachs Group Inc., said the economic fundamentals and ongoing Covid curbs in the world’s second largest economy put it in a better position to face the new variant. 
+ While the `verdict` is still out on whether the `startling` `genetic` changes found in omicron justify the `preemptive` hankering down, some analysts said China’s approach may offer benefits. Kinger Lau, a strategist with `Goldman Sachs Group Inc`, said the economic `fundamental`s and ongoing Covid `curbs` in the world’s second largest economy put it in a better position to face the new variant. 
 
- Still, the zero-tolerance strategy China is clinging to has come under growing criticism from abroad and at least partly from within, and goes well beyond rigid border closures to include a growing suite of disruptive curbs. 
+ Still, the zero-tolerance strategy China is `cling`ing to has come under growing criticism from abroad and at least partly from within, and goes well beyond `rigid` border closures to include a growing suite of disruptive curbs. 
 
 ## Harder Containment
 
