@@ -15,18 +15,19 @@ December 1, 2021, 5:00 AM GMT+8 Updated on December 1, 2021, 10:21 AM GMT+8**
 
  While the `verdict` is still out on whether the `startling` `genetic` changes found in omicron justify the `preemptive` hankering down, some analysts said China’s approach may offer benefits. Kinger Lau, a strategist with `Goldman Sachs Group Inc`, said the economic `fundamental`s and ongoing Covid `curbs` in the world’s second largest economy put it in a better position to face the new variant. 
 
- Still, the zero-tolerance strategy China is `cling`ing to has come under growing criticism from abroad and at least partly from within, and goes well beyond `rigid` border closures to include a growing suite of disruptive curbs. 
+ Still, the zero-tolerance strategy China is `cling`ing to has come under growing criticism from abroad and at least partly from within, and goes well beyond `rigid` border closures to include a growing suite of `disruptive` curbs. 
 
 ## Harder Containment
 
-The infectious delta variant tied to more flareups in China
+The infectious delta variant tied to more `flareups` in China
 ![图片](../images/data1.png)
 > Source: National Health Commission
-Note: Data starts April 18, 2020, after the government last corrected its Covid tally. Some cases are reported twice, as symptoms develop in previously asymptomatic carriers.
+> 
+> Note: Data starts April 18, 2020, after the government last corrected its Covid `tally`. Some cases are reported twice, as `symptoms` develop in previously asymptomatic carriers.
 
-While it has shielded the world’s most populous country from the rampant infections and massive death tolls that have ravaged other parts of the world, Covid Zero has taxed China and its people, with the weekslong quarantines and re-entry procedures meaning they’re effectively locked inside the country. 
+While it has `shield`ed the world’s most populous country from the `rampant` infections and massive death tolls that have `ravaged` other parts of the world, Covid Zero has taxed China and its people, with the `weekslong` `quarantines` and re-entry `procedures` meaning they’re effectively locked inside the country. 
 
-It’s gotten harder, and less successful, over time. The handful of delta flareups that have emerged since May are requiring ever-more stringent measures to subdue. China is currently grappling with dozens of infections in a border town in its Inner Mongolia region, even as remnants of a previous outbreak continue to linger.
+It’s gotten harder, and less successful, over time. The handful of delta flareups that have emerged since May are requiring ever-more `stringent` measures to `subdue`. China is currently grappling with dozens of infections in a border town in its Inner Mongolia region, even as remnants of a previous outbreak continue to linger.
 
 After vowing to keep out Covid, China doesn’t have many options. The country’s approach is a one-size-fits-all strategy, said Nicholas Thomas, an associate professor at the City University of Hong Kong who has edited several books on foreign policy and public health. The lack of efficient vaccines gives China little room to maneuver, he said. 
 
